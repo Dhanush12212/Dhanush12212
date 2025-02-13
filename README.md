@@ -13,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhanush." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanush." height="30" width="40" /></a>
+<a href="https://twitter.com/dhanushmogaveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanushmogaveer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhanush-abb811259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanush-abb811259" height="30" width="40" /></a>
+<a href="https://discord.gg/Dhanush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dhanush" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
