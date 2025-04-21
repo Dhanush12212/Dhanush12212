@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush12212&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush12212" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanush12212" alt="dhanush12212" /></a> </p>
-
 # 💫 About Me:
 🔭 I’m studying B.E.<br>👯 I’m looking to collaborate on Full Stack Projects <br>🌱 I’m currently learnings DSA and DEV  
 
